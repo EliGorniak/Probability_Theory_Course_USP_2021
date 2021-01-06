@@ -1,5 +1,5 @@
 <h1 align="center">
-    Probability_Theory_Course_USP_2021
+    Probability Theory Introduction Course from USP Brazil
 </h1>
 
 ![picture alt](/images/banner.png "Course") 
